@@ -1,4 +1,4 @@
-# Sentiment-Emotion_analysis_on_reviews_using_LLMs
+# Sentiment and Emotion Analysis on Reviews Using LLMs
 Code to extract insights and recommendations to customers based on ecommerce data using LLMs.
 
 This project analyzes customer data from an e-commerce platform to extract actionable insights. The analysis is divided into two key tasks: understanding customer demographics and purchase behavior, and identifying key themes and pain points from customer reviews.
